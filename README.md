@@ -14,13 +14,13 @@ RESTFUL Style
 
 ## 接口列表
 
-### 1. 获取所有产品信息
+### 1. 获取所有产品信息/Get all products
 
-### 2. 获取所有供应商信息
+### 2. 获取所有供应商信息/Get all providers
 
-### 3. 获取所有国家信息
+### 3. 获取所有国家信息/Get all countries
 
-### 4. 发送充值
+### 4. 发送充值/Send transfer
 
-### 5. 查询充值结果
+### 5. 查询充值结果/Query transfer result
 ...
