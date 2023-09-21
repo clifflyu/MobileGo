@@ -5,7 +5,7 @@
 An international API for mobile recharge. here you can do cell phone bill recharge, buy data, TV bill payment, buy Google gift card, buy game card and so on.<br>
 如果寻求商务合作<br>
 If seeking business cooperation<br>
-Email: clifflyu@gmail.com
+Email: support@mobilego.top
 ![示例图片](./demo.png)
 # API 文档
 
